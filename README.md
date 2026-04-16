@@ -25,4 +25,4 @@ This project performs an in-depth analysis of water quality across various river
 3. Run the notebook cells sequentially to reproduce the analysis and models.
 
 ## 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License..
